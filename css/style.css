@@ -2080,6 +2080,5 @@ input:not([type=submit]):not([type=file]):focus, select:focus, textarea:focus {
 	white-space: nowrap;
 	word-wrap: normal;
 	direction: ltr;
-	-webkit-font-feature-settings: 'liga';
 	-webkit-font-smoothing: antialiased;
   };
