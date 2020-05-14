@@ -2065,7 +2065,7 @@ input:not([type=submit]):not([type=file]):focus, select:focus, textarea:focus {
 	font-family: 'Material Icons';
 	font-style: normal;
 	font-weight: 400;
-	src: url(/fonts/Materilaoo) format('woff2');
+	src: url(/fonts/Materilaoo/) format('woff2');
   }
   
   .material-icons {
